@@ -1,7 +1,7 @@
 /*
   >>>>>>>>>>> Momentum Team's Projects <<<<<<<<<<<< .
    Project Name : Whack - Mole Game
-   Software  Team : Mohamed Awadin - Nada Mohamed
+   Software  Team : Mohamed Awadin
 */
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
