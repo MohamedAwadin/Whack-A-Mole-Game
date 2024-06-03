@@ -13,7 +13,7 @@ A fun, interactive Whack-A-Mole game implemented on an Arduino platform. This pr
 ## Schematic
 Here is the schematic for connecting all components:
 
-![Schematic](schematics/schematic.png)
+![Schematic](schematics/schematic.jpg)
 
 ## Hardware Requirements
 
