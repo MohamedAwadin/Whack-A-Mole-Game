@@ -10,6 +10,11 @@ A fun, interactive Whack-A-Mole game implemented on an Arduino platform. This pr
 - Buzzer for game over notification
 - Modular code structure for easy maintenance and readability
 
+## Schematic
+Here is the schematic for connecting all components:
+
+![Schematic](schematics/schematic.png)
+
 ## Hardware Requirements
 
 - Arduino Uno (or compatible)
